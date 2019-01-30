@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Intel Core i9-9990XE : 14 coeurs jusqu'à 5GHz, disponible uniquement aux enchères"
+date:   2016-08-16 15:36:27
+categories: Innovation
+---
+![icore9](https://pic.clubic.com/v1/images/1696922/raw)
+
+
+**Aux côtés de l'Intel Core i9-9980XE, vendu à 1979 dollars, s'établira prochainement l'i9-9990XE à un tarif précis que l'on n'aura probablement jamais la chance de connaître. Plus puissant, on apprend en effet d'AnandTech qu'il ne sera pas proposé à la vente grand public, Intel préférant destiner son énorme processeur aux assembleurs... et ce uniquement au travers de ventes aux enchères.**
+
+Aucun lancement public n'est donc prévu pour ce mastodonte dont les fréquences pourront atteindre le seuil des 5 GHz en boost. Dans des documents internes corroborés par plusieurs sources, le site spécialisé a notamment découvert qu'Intel présentait son nouveau CPU comme une référence "off roadmap". Comprenez qu'il n'arrivera, de fait, jamais sur le marché destiné au commun des mortels. Il faudra être un fabricant (OEM) pour s'en payer les faveurs, et même dans ces conditions, Intel compte visiblement verser dans une sélection rigoureuse. Clairement, le i9-9990XE n'est pas un processeur que la firme de Santa Clara souhaite mettre en toutes les mains.
+
+Un processeur accessible, dans un premier temps, à trois assembleurs OEM et uniquement sur enchère
+D'après les documents consultés par AnandTech, lntel prévoirait de programmer une seule vente aux enchères par trimestre pour son i9-9990XE. D'après le site, la première est d'ores et déjà calée à cette fin janvier et ne serait à l'heure actuelle accessible qu'à trois fabricants seulement. En matière de prix, aucun tarif officiel ne serait d'ailleurs fixé. Si l'on imagine mal Intel proposer son processeur sans un prix de réserve copieux, il reviendrait bel et bien aux acheteurs de décider combien ils sont respectivement prêts à investir pour cette puce. Intel de son côté se chargerait de produire au compte goutte ses fameux i9-9990XE. On parle ici de quelques centaines tout au plus par trimestre.
+
+Un mode de production rendu possible par la nature même du Core i9-9990XE, qui reprend de nombreuses caractéristiques de son petit frère l'i9-9940X. Les deux processeurs partagent en effet le même nombre de cores et de threads (14 cœurs pour 28 threads), mais se différencient côté fréquences (4.0 GHz de base et 5.0 GHz en boost pour l'i9-9990XE contre "seulement" 3.3 / 4.5 GHz pour l'i9-9940X). l'i9-9990XE s'apparente ainsi à un i9-9940X dont les fréquences ont été haussées autant que possible.
+
+Un TDP copieux... et une étrange absence de garantie de la part d'Intel
+Cette hausse notable des fréquence de fonctionnement de la puce n'a toutefois pas que des avantages, notamment en termes de TDP. Sur ce terrain, le bougre consommera rien de moins que 255 Watts (contre tout juste 165 Watts chez les autres référence de lignée i9-99xxX).
+
+Anandtech précise enfin que le Core i9-9990XE sera compatible avec le socket 2066 des cartes mères X299 (déjà accessibles sur le marché). Plus intéressant, le site avance qu'Intel ne proposera pas de garantie sur ce modèle, laissant ainsi aux assembleurs le soin de proposer leur propre garantie à leurs clients finaux... en prenant de ce fait tous les risques en cas de panne. Contacté, Intel n'a pas encore donné de précisions à ce propos.**
