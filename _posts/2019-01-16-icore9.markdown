@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Intel Core i9-9990XE : 14 coeurs jusqu'à 5GHz, disponible uniquement aux enchères"
-date:   2016-08-16 15:36:27
+date:   2019-01-15
 categories: Innovation
 ---
 ![icore9](https://pic.clubic.com/v1/images/1696922/raw)
