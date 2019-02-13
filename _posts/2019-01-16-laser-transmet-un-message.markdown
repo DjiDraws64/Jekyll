@@ -2,7 +2,7 @@
 layout: post
 title:  "Un laser transmet un message audio à un destinataire sans que personne d'autre ne l'entende"
 date:   2019-02-02
-categories: Technologie
+categories: Technologie Innovation
 ---
 ![image](https://img.maxisciences.com/article/audition/un-laser-transmet-un-message-audio-a-un-destinataire-sans-que-personne-d-autre-ne-l-entende_8a3b9f974758fcf82adfa0b33d230502404c83eb.jpg)
 

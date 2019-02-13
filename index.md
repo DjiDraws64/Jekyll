@@ -4,5 +4,4 @@ layout: frontpage
 
 ## Bienvenue sur le site
 
-This is the place where I share my ideas on topics like [Paracraft](http://www.paracraft.cn) software design, artificial intelligence and education. 
-Feel free to send me emails or join our team. 
+Bienvenue sur le site d'actualité de la BTS SIO1, créé par M. SAINDOU (enfin, il a été créé par LiXizhi (Li, Xizhi))

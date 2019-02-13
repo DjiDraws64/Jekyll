@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "DroneSeed : la start-up américaine qui replante des arbres avec des drones"
-date:   2016-08-16 15:36:27
-categories: Technologie Environnement
+date:   2018-12-02 15:36:27
+categories: Technologie Environnement Innovation
 ---
 ![froneseed](https://pic.clubic.com/v1/images/1692674/raw)
 
